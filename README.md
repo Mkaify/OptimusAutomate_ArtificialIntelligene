@@ -63,7 +63,7 @@ Per the internship completion criteria, a minimum of two to three production-rea
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Optimus_Automate_AI_Internship.git
+git clone https://github.com/mkaify/OptimusAutomate_ArtificialIntelligene.git
 cd Optimus_Automate_AI_Internship
 ```
 
